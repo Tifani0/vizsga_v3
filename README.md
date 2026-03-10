@@ -38,3 +38,11 @@ Miért ezt választottuk❔
 A szépségiparban egyre nagyobb igény van a digitalizációra. A fejlesztés során nagy hangsúlyt fektettünk a felhasználóbarát felületre és a biztonságos bejelentkezésre.
 
 🔺 A projekt során a legnagyobb kihívást az aszinkron folyamatok (például a foglalási adatok lekérése a szervertől) és az adatbázis-kapcsolatok (Prisma) megfelelő kezelése jelentette.
+
+-------------------------------------
+Fejlesztők:
+[Gáll Tifani](https://github.com/Tifani0) , [Balogh Kornélia Csilla](https://github.com/ni142)
+
+
+
+---------------------------------------
