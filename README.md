@@ -4,7 +4,7 @@
 |Backend | https://github.com/Tifani0/vizsga_backend_v3 |
 |Frontend | https://github.com/Tifani0/vizsga_react_v3 |
 |Kiindulópont | https://github.com/ni142/Book---Beauty |
-|Prezentáció | https://github.com/ni142/Prezent-ci-Book-Beauty |
+|Prezentáció | [fr](https://github.com/ni142/Prezent-ci-Book-Beauty)|
 
 
 💅 Book & Beauty:
